@@ -1,7 +1,7 @@
 # app_design-xd-
-Curriculum is a mobile app design.
-Mobile app design with:
-1. Tutor detatils
-2. Subject information
-3. Sharing of important notes.
-4. chatting with tutor/admin
+Minimalistic mobile app design using Adobe XD consisting of the following templates to facilitate the virtual interaction between students and teachers.
+1. Tutor detatils.
+2. Subject information.
+3. Note Sharing.
+4. Text conversation with tutor/admin.
+Link to the design templates is provided in curriculum_Adobe_XD.txt file.
